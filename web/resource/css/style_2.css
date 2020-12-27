@@ -1,0 +1,29 @@
+.scroll::-webkit-scrollbar{
+    width: 10px;
+    background:#eaeaea;
+    border-radius: 4px;
+
+}
+
+.scroll::-webkit-scrollbar-thumb{
+    border-radius: 4px;
+    background: #b1b1b1;
+}
+
+.scroll::-webkit-scrollbar-thumb:hover{
+    background: #8a8a8a;
+}
+
+.menu-fixedd{
+    position: fixed;
+    z-index: 1;
+}
+
+.menu-expanded{
+    margin-left: 16.5%; /*16.5*/ 
+}
+
+.menu-collapsed{
+    margin-left: 7.7%; /*<- 7.7*/ 
+}
+

@@ -1,0 +1,2 @@
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resource/css/datatables.min.css" />
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resource/css/dataTables.bootstrap.min.css" />
